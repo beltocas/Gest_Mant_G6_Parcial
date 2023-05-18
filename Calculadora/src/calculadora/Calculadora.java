@@ -15,7 +15,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 public class Calculadora extends javax.swing.JFrame {
 
     private String cadenaNumeros = "";
-    private String operacion = "nula";
+    private String operacion = "nulo";
     private double primerNumero, resultado;
     private boolean activado = true;
     private boolean punto = true;
